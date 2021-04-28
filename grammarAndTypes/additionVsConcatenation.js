@@ -1,3 +1,6 @@
+/*  - let is the keyword
+    - = is the assignment operator*/
+
 let third = 1050 + '100';  /*this is a string*/
 console.log(third);
 console.log(typeof third);

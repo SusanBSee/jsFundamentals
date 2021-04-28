@@ -1,12 +1,13 @@
 
 let a = 2;
-//1 (COMMENT!) let = 1   a = 2   = = 3   r; = 2
-
-//Javascript keyword to denote the creation of a variable
-//the name of the variable
-//assignment operator
-//The initial value
-                // OR
+/*1 (COMMENT!) let = 1   a = 2   = = 3   r; = 2
+         - let is the keyword
+         - = is the assignment operator
+        Javascript keyword to denote the creation of a variable
+        the name of the variable
+        assignment operator
+        The initial value
+                /* OR
         /* can use /* to denote a comment 
         which will make all lines after as a comment until closing with
         */
